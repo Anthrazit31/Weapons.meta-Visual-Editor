@@ -5,10 +5,12 @@
 **Weapons.Meta Visualizer** transforms the complex task of balancing weapon statistics into an intuitive, visual experience. Forget editing thousands of lines of XML text blindly; optimize your server's gunplay with real-time feedback, interactive charts, and powerful comparison tools.
 
 
+
 <div align="center">
-  <img src="https://i.imgur.com/DKWgC3e.png" width="48%" alt="Visual Editor Preview 1" />
-  <img src="https://i.imgur.com/M9ACY3U.png" width="48%" alt="Visual Editor Preview 2" />
+  <img src="./preview/ML8QqM7%20-%20Imgur.png" width="48%" alt="Visual Editor Preview 1" />
+  <img src="./preview/zRIqTod%20-%20Imgur.png" width="48%" alt="Visual Editor Preview 2" />
 </div>
+
 
 ## 🌟 Key Features
 
@@ -46,7 +48,7 @@ Modify every crucial aspect of the weapon meta directly from the UI:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/weapons-meta-visualizer.git
+    git clone https://github.com/Anthrazit31/weapons-meta-visualizer.git
     cd weapons-meta-visualizer
     ```
 
