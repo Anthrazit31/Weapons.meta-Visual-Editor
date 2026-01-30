@@ -93,7 +93,7 @@ Modify every crucial aspect of the weapon meta directly from the UI:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/weapons-meta-visualizer/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Anthrazit31/weapons-meta-visualizer/issues).
 
 1.  Fork the project
 2.  Create your feature branch (`git checkout -b feature/AmazingFeature`)
