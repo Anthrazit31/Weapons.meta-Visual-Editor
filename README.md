@@ -4,8 +4,12 @@
 
 **Weapons.Meta Visualizer** transforms the complex task of balancing weapon statistics into an intuitive, visual experience. Forget editing thousands of lines of XML text blindly; optimize your server's gunplay with real-time feedback, interactive charts, and powerful comparison tools.
 
-![Visual Editor Preview](https://imgur.com/a/DKWgC3e)
-![Visual Editor Preview 2](https://imgur.com/a/M9ACY3U)
+
+<div align="center">
+  <img src="https://i.imgur.com/DKWgC3e.png" width="48%" alt="Visual Editor Preview 1" />
+  <img src="https://i.imgur.com/M9ACY3U.png" width="48%" alt="Visual Editor Preview 2" />
+</div>
+
 ## 🌟 Key Features
 
 ### 📊 Real-Time Visualization
